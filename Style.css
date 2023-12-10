@@ -22,7 +22,8 @@ ol{
 }
 table{
     th,tr,td{
-        border: 3px solid black;
+        border: 3px double black;
+        
     }
 }
 table{
